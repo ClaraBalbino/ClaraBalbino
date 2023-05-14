@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Olá, sou 
+    Olá, me chamo 
     <a href="https://www.linkedin.com/in/clara-balbino/">Clara Balbino </a>
   </h1>
   
